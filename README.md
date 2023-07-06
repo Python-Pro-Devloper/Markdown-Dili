@@ -54,7 +54,7 @@ _Vurgulanmış_ --> _
 Yukarıdaki gibi bir link oluşturmak için öncelikle köişeli parantezler içerisine linkin metnini yazıyoruz, ardından normal parantez içerisine linki yerleştiriyoruz. 
 
 ## 4.2 Görseller
-![Resim Açıklaması](resim.png)     
+![Resim Açıklaması](Markdown.jpeg)     
 
 Yukarıdaki gibi bir görsel oluşturmak için, 
 - ! işaretinden sonra köşeli parantezler içerisine görselin metnini yazıyoruz, ardından normal parantezler içerisine uzantısıyla birlikte dosya ismini yazıyoruz.
