@@ -92,7 +92,8 @@ Buraya kadar tablo içerisindeki satırları birbirinden ayırmayı öğrendik. 
 # 6. Kod Gösterimi
 
 ```python
-# Markdown'da kod bloğu açmak ve kapatmak için "Alt Gr + Virgül" tuş kombinasyonunu kullanıyoruz.
+# Markdown'da kod bloğu açmak ve kapatmak için
+# "Alt Gr + Virgül" tuş kombinasyonunu kullanıyoruz.
 
 # Örnek:
 
